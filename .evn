@@ -1,0 +1,3 @@
+STRIPE_SECRET_KEY=your_stripe_secret_key
+DIRECTUS_API_URL=https://directus-dev.quiet-loud.com/admin/settings/data-model/Customer
+DIRECTUS_API_TOKEN=X6qckBetfDeE6dNgiusffSBKbnroaLdq
